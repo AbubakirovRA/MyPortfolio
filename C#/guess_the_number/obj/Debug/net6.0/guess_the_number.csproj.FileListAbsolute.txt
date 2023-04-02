@@ -1,0 +1,32 @@
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.GlobalUsings.g.cs
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.csproj.AssemblyReference.cache
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.AssemblyInfoInputs.cache
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.AssemblyInfo.cs
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.csproj.CoreCompileInputs.cache
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\bin\Debug\net6.0\guess_the_number.exe
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\bin\Debug\net6.0\guess_the_number.deps.json
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\bin\Debug\net6.0\guess_the_number.runtimeconfig.json
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\bin\Debug\net6.0\guess_the_number.dll
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\bin\Debug\net6.0\ref\guess_the_number.dll
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\bin\Debug\net6.0\guess_the_number.pdb
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.dll
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\ref\guess_the_number.dll
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.pdb
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.genruntimeconfig.cache
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\bin\Debug\net6.0\guess_the_number.exe
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\bin\Debug\net6.0\guess_the_number.deps.json
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\bin\Debug\net6.0\guess_the_number.runtimeconfig.json
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\bin\Debug\net6.0\guess_the_number.dll
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\bin\Debug\net6.0\ref\guess_the_number.dll
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\bin\Debug\net6.0\guess_the_number.pdb
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.GlobalUsings.g.cs
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.csproj.AssemblyReference.cache
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.AssemblyInfoInputs.cache
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.AssemblyInfo.cs
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.csproj.CoreCompileInputs.cache
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.dll
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\ref\guess_the_number.dll
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.pdb
+D:\Мои Документы\Документы\Обучение\Учеба в Гик Брэйнс\5. Знакомство с языком программирования С#\Семинары\Homework\guess_the_number\obj\Debug\net6.0\guess_the_number.genruntimeconfig.cache

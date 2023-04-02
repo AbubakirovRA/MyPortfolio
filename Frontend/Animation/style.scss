@@ -1,0 +1,97 @@
+$widthLamp: 50px;
+$iterationAnimation: 3;
+
+@keyframes lampFromHell {
+    0% {
+        left: -$widthLamp * 2;
+    }
+
+    50% {
+        left: random(70) + vw;
+        top: random(90) + vh;
+    }
+
+}
+
+@for $i from 1 through $iterationAnimation {
+    @keyframes lampFromHell-#{$i} {
+        0% {
+            left: -$widthLamp * 2;
+        }
+    
+        50% {
+            left: random(70) + vw;
+            top: random(90) + vh;
+        }
+    }
+}
+
+html {
+    background: url(img/Earth.png) no-repeat center;
+    min-height: 100vh;
+    background-size: cover;
+}
+
+body {
+    counter-reset: count;
+}
+
+.wrapper {
+    overflow: hidden;
+    min-width: 100vw;
+}
+
+.center {
+    padding-left: calc(50% - 1400px / 2);
+    padding-right: calc(50% - 1400px / 2);
+}
+
+.checkbox__img {
+    width: 50px;
+}
+
+.counter-info {
+    position: absolute;
+    top: 10px;
+    right: 50px;
+    color: white;
+}
+
+.counter-info::after {
+    content: counter(count);
+}
+
+.checkbox {
+    position: absolute;
+    visibility: hidden;
+    left: -9999999px;
+
+    &:checked {
+        counter-increment: count;
+    }
+
+    &:checked + label {
+        display: none;
+    }
+}
+
+.lamp {
+    position: absolute;
+    left: -$widthLamp * 2;
+
+    @for $i from 1 through $iterationAnimation {
+        &_#{$i} {
+            animation: lampFromHell-#{$i} 3s #{$i * 2}s;
+            animation-timing-function: step-end;
+        }
+    }
+}
+
+.dev-css {
+    position         : fixed;
+    left             : 1em;
+    top              : 1em;
+    padding          : 1em;
+    background-color : rgba(0, 0, 0, .6); 
+    color            : #FFF
+  }

@@ -1,0 +1,33 @@
+public boolean 
+public int evalRPN(String[] tokens) {
+        Set<String> operations = Set.of("+", "-", "*", "/");
+        Stack<Integer> numbers = new Stack<>();
+        for (int i = 0; i < tokens.length; i++) {
+            if (!operations.contains(tokens[i])) {
+                numbers.push(Integer.parseInt(tokens[i]));
+            } else {
+                int num2 = numbers.pop();
+                int num1 = numbers.pop();
+                switch (tokens[i]) {
+                    case "+":
+                        numbers.push(num1 + num2);
+                        break;
+
+                    case "-":
+                        numbers.push(num1 - num2);
+                        break;
+
+                    case "*":
+
+                        numbers.push(num1 * num2);
+                        break;
+
+                    case "/":
+                        numbers.push(num1 / num2);
+                        break;
+                }
+
+            }
+        }
+        return numbers.pop();
+    }

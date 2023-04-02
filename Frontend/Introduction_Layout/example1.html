@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Домашнее задание №2</title><!--название вкладки-->
+        <meta charset="utf-8">
+        <meta name="keywords" content="ключевые слова, по которым поисковик будет индексировать страницу">
+        <meta name="description" content="описание страницы, которое поисковик будет выдавать в выдаче">
+        <link rel="shortcut icon" href="images/logo.png">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Домашнее задание №2</h1> <!--Заголовок H1 не должен встречаться на странице более одного раза-->
+        <hr>
+        <dive class="div1">
+            <h2>Выполнил: студент факультета разработки GeekBrains Абубакиров Р.А.</h2> <!--Каждый заголовок занимает строку целиком-->
+            <img src="images/AbubakirovRA.png" alt="моё фото">
+        </dive>
+        <hr>
+          <dive class="parent">
+            <dive class="child1">
+                <p>Домашнее задание</p>
+                <p></p>
+                <p></p>
+                <p>Создать страницу с рассказом о чем угодно. Например, о себе или о любимом коте.</p>
+                <p></p>
+                <p>Страница должна содержать:</p>
+                <ul>
+                    <li>заголовки,</li>
+                    <li>абзацы,</li>
+                    <li>картинки,</li>
+                    <li>списки</li>
+                    <li>и ссылки</li>
+                </ul>
+                <p>Внутри тега абзаца можно использовать тег переноса строки<br> например как здесь, <b>текст можно сделать жирным</b><em> или курсивным</em></p>
+                <p></p>
+                  <li>
+                    <a href="https://yandex.ru/" target="blank">
+                       Yandex
+                    </a>
+                    ссылка на сайт Яндекса
+                  </li>
+            </dive>
+            <dive class="child2">
+              <h3>Уважаемые студенты!</h3>
+            <h3>Вы довольны своим обучением?</h3>
+              <button onmouseDown="alert('Отлично, мы в этом не сомневались!!!')" value="ДА!!!">ДА!!!</button>
+              <span id="button1" style="position:relative;z-index:10" onmouseOver="moveIt()" onfocus="moveIt();this.blur()">
+              <button onmouseDown="moveIt()" onmouseover="moveIt()" onfocus="moveIt();this.blur()">Нет</button>
+              </span>
+            </dive>
+            <dive class="child3">
+                <table class="table"> <!--border - атрибут границ, правильно задавать в CSS-->
+                    <thead>
+                      <tr>
+                        <th>Наименование</th>
+                        <th>Количество</th>
+                        <th>Примечание</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>Заголовки</td>
+                        <td>2</td>
+                        <td>h1, h2</td>
+                      </tr>
+                      <tr>
+                        <td>Блоки</td>
+                        <td>4</td>
+                        <td>parent, child1, child2, child3</td>
+                      </tr>
+                      <tr>
+                        <td>Картинки</td>
+                        <td>1</td>
+                        <td>относительная ссылка</td>
+                      </tr>
+                      <tr>
+                        <td>Ссылки</td>
+                        <td>1</td>
+                        <td>Абсолютная ссылка</td>
+                      </tr>
+                      <tr>
+                        <td>Кнопки</td>
+                        <td>2</td>
+                        <td></td>
+                      </tr>
+                    </tbody>
+                    <tfoot>
+                      <tr>
+                        <th>Итоговая оценка:</th>
+                        <td colspan="2">???</td> <!--атрибут colspan объединяет несколько ячеек в строке-->
+                      </tr>
+              
+                    </tfoot>
+                  </table>
+                  <p></p>
+                  <button onclick="count()" value="Count">Hi, JS-code!</button>
+                  <p></p>
+                  <form action="https://yandex.ru/" target="_blank">
+                      <button type="submit">Поиск в Яндекс</button>
+                  </form>
+            </dive>
+          </dive>
+        <hr>
+       </body>
+  <script src="script/alert.js"></script>       
+</html>

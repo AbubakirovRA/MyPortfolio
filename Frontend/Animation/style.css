@@ -1,0 +1,116 @@
+html {
+  background: url(img/Earth.jpg) no-repeat center;
+  min-height: 100vh;
+  background-size: cover;
+}
+
+body {
+  counter-reset: count;
+}
+
+.wrapper {
+  overflow: hidden;
+  min-width: 100vw;
+}
+
+.center {
+  padding-left: calc(50% - 700px);
+  padding-right: calc(50% - 700px);
+}
+
+.checkbox__img {
+  width: 50px;
+}
+
+.counter-info {
+  position: absolute;
+  top: 10px;
+  right: 50px;
+  color: white;
+}
+
+.counter-info::after {
+  content: counter(count);
+}
+
+.checkbox {
+  position: absolute;
+  visibility: hidden;
+  left: -9999999px;
+}
+.checkbox:checked {
+  counter-increment: count;
+}
+.checkbox:checked + label {
+  display: none;
+}
+
+.lamp {
+  position: absolute;
+  left: -100px;
+}
+.lamp_1 {
+  animation: lampFromHell-1 3s 1s;
+  animation-timing-function: step-end;
+}
+.lamp_2 {
+  animation: lampFromHell-2 3s 2s;
+  animation-timing-function: step-end;
+}
+.lamp_3 {
+  animation: lampFromHell-3 3s 3s;
+  animation-timing-function: step-end;
+}
+
+@keyframes lampFromHell {
+  0% {
+    left: -100px;
+    display: block;
+  }
+  50% {
+    left: 44vw;
+    top: 49vh;
+  }
+  100% {
+    display: none;
+  }
+}
+@keyframes lampFromHell-1 {
+  0% {
+    left: -100px;
+    display: block;
+  }
+  50% {
+    left: 59vw;
+    top: 21vh;
+  }
+  100% {
+    display: none;
+  }
+}
+@keyframes lampFromHell-2 {
+  0% {
+    left: -100px;
+    display: block;
+  }
+  50% {
+    left: 41vw;
+    top: 84vh;
+  }
+  100% {
+    display: none;
+  }
+}
+@keyframes lampFromHell-3 {
+  0% {
+    left: -100px;
+    display: block;
+  }
+  50% {
+    left: 54vw;
+    top: 38vh;
+  }
+  100% {
+    display: none;
+  }
+}/*# sourceMappingURL=style.css.map */

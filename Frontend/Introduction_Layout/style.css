@@ -1,0 +1,102 @@
+body {
+        background:
+          url(images/background/carbon-fibre.png)
+}
+
+.div1 {
+    display: block;
+    width: 600px;
+    height: auto;
+    margin-left: auto;
+}
+
+h1{
+    color: yellowgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.parent {
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.child1 {
+    width: auto;
+    height: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size:large;
+    color: white;
+}
+
+.child2 {
+    width: auto;
+    height: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size:large;
+    color: white;
+}
+
+.child3 {
+    width: auto;
+    height: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-size:large;
+    color: white;
+}
+
+h2, h3 {
+    color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+    
+.table th {
+    font-weight: bold;
+    padding: 5px;
+    border: 1px solid white;
+}
+    
+.table td {
+    border: 1px solid white;    
+    padding: 5px;
+}    
+
+a{
+	text-decoration:none;
+	border-bottom:1px dashed #C32017;
+	color:#333333;
+}
+
+a:link{				/*установка цвета непосещенной ссылки*/
+	color:#0800f3
+}
+
+a:visited{				/*установка цвета посещенной ссылки*/
+	color:#fa1aa0;
+}
+
+a:hover{				/*установка цвета при наведении мыши на ссылку*/
+color:#800000;
+}
+
+a:active{				/*установка цвета в момент щелчка по ссылке*/
+color:#008000;
+}

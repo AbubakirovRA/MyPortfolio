@@ -1,0 +1,8 @@
+GET https://nalog.ru/
+###
+POST https://yandex.ru/search/?text=1
+###
+GET  https://yandex.ru/
+###
+get https://gbweblearn/cv.html
+

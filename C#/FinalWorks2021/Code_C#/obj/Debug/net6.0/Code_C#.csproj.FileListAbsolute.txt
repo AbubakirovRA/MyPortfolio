@@ -1,0 +1,16 @@
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\bin\Debug\net6.0\Code_C#.exe
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\bin\Debug\net6.0\Code_C#.deps.json
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\bin\Debug\net6.0\Code_C#.runtimeconfig.json
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\bin\Debug\net6.0\Code_C#.dll
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\bin\Debug\net6.0\ref\Code_C#.dll
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\bin\Debug\net6.0\Code_C#.pdb
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\obj\Debug\net6.0\Code_C#.GlobalUsings.g.cs
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\obj\Debug\net6.0\Code_C#.csproj.AssemblyReference.cache
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\obj\Debug\net6.0\Code_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\obj\Debug\net6.0\Code_C#.AssemblyInfoInputs.cache
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\obj\Debug\net6.0\Code_C#.AssemblyInfo.cs
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\obj\Debug\net6.0\Code_C#.csproj.CoreCompileInputs.cache
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\obj\Debug\net6.0\Code_C#.dll
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\obj\Debug\net6.0\ref\Code_C#.dll
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\obj\Debug\net6.0\Code_C#.pdb
+D:\Мои Документы\Рабочий стол\Учеба в Гик Брэйнс\8. final works\2021\Code_C#\obj\Debug\net6.0\Code_C#.genruntimeconfig.cache
